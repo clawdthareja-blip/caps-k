@@ -1,0 +1,15 @@
+============================================================
+CAPS-K: K-Value Sensitivity Analysis — Summary
+============================================================
+     K |    ASR (%) |  Utility (%) |    Defense
+------------------------------------------------------------
+     4 |        0.0 |         80.0 |       BEST
+     6 |        0.0 |         60.0 |           
+     8 |        0.0 |         60.0 |           
+    12 |        0.0 |         80.0 |           
+============================================================
+
+Interpretation:
+  Best defense (lowest ASR):  K=4 (0.0% ASR)
+  Best utility (highest CTS): K=4 (80.0% clean success)
+  No tradeoff: K=4 is optimal on both axes.
